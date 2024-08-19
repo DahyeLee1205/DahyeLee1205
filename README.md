@@ -3,7 +3,7 @@
 - dlekekek1@gmail.com
 
 ## Contacts
-[![Notion](https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=#000000")](https://www.notion.so/f875cf1fea7f4117925e69008b0a400f)
+[![Notion](https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=#000000")](https://continuous-bagel-d02.notion.site/f875cf1fea7f4117925e69008b0a400f)
 [![Github](https://img.shields.io/badge/Github-20232a.svg?style=for-the-badge&logo=Github&logoColor=#181717")](https://github.com/DahyeLee1205)
 
 ## Stack  
