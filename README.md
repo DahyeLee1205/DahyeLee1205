@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=000000&width=1000&height=60&lines=Welcome+to+DahyeLee's+Github)](https://git.io/typing-svg)  
-- Web backend developer in security company
-- dlekekek1@gmail.com
+- 2nd year Web backend developer
+- Raon Secure, Auth R&D team(2023.04~)
+- email : dlekekek1@gmail.com
 
 ## Contacts
 [![Notion](https://img.shields.io/badge/Notion-20232a.svg?style=for-the-badge&logo=Notion&logoColor=#000000")](https://continuous-bagel-d02.notion.site/f875cf1fea7f4117925e69008b0a400f)
